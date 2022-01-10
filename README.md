@@ -1,5 +1,7 @@
 # PRiR zadania lab 10
-Całkowanie numeryczne metodą prostokątów, trapezów oraz Simpsona.
+Całkowanie numeryczne metodą prostokątów, trapezów oraz Simpsona.<br>
+Wzór funkcji do całkowania: f(x) = x^2 + 2x + 13 <br> 
+Przedziały całkowania: (-3, 7)<br>
 Wersja CPU:
 ```
 prostokat dla n1 = 100000: 0.00153000, 293.335999
@@ -25,3 +27,4 @@ simpson dla n1 = 100000: 0.00760585, 293.335
 simpson dla n2 = 1000000: 0.0238274, 293.348
 simpson dla n3 = 10000000: 0.0202489, 293.348
 ```
+
