@@ -29,5 +29,5 @@ simpson dla n3 = 10000000: 0.0202489, 293.348
 ```
 ![](mProstokat.PNG)<br><br>
 ![](mTrapez.PNG)<br><br>
-![](mSimpson.PNG)
+![](mSimpson.PNG)<br>
 Wnioski: Im większe n, tym wydajniejsza jest wersja GPU algorytmów. Dla mniejszych n CPU okażę się być szybsze ze względu na to, że w wersji GPU dużo czasu zajmuje kopiowanie danych między CPU a GPU.
